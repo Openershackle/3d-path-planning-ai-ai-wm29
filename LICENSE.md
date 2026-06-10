@@ -1,4 +1,4 @@
-# 
+# Léger 3D Path Planning AI extensions. Avec apprentissage par renforcement et détection d'objets — optimisé pour des performances maximales.
 
 
 
